@@ -30,3 +30,26 @@ python snake_water_gunn_game.py
 
 ## 📄 License
 MIT# project-env
+
+# 🔢 Number Guessing Game
+
+A Python CLI game where you guess a randomly generated number between 1 and 100.
+
+## ▶️ Run
+```bash
+python main.py
+```
+
+## 🎯 How It Works
+
+1. The program picks a random number (1–100)
+2. You enter guesses
+3. Get hints: *"Guess Higher"* or *"Guess Lower"*
+4. Win when you guess correctly — your total attempts are displayed!
+
+## 🛠️ Tech Stack
+- Python 3
+- `random` module
+
+## 📄 License
+MIT
